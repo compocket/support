@@ -15,7 +15,7 @@ sudo apt-get install -f
 
 The application is installed to **"/opt/Minis/Minis"**. You can find the Minis software in the Application section. When you open the application, it will start from the Terminal. It needs the root access to communicate with the USB device.
 
-.Now, you are ready to go! You can enjoy the software. You can connect the device to the PC via USB cable. After the connection is established, you will see the signals on the screen.
+Now, you are ready to go! You can enjoy the software. You can connect the device to the PC via USB cable. After the connection is established, you will see the signals on the screen.
 
 Before starting to use the software, we recommend you to go through the **User guide/Desktop Application**.
 
