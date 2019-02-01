@@ -20,7 +20,7 @@ In the following subsections, you will go through the installation guide:
 
 If you have already installed the application, you can jump into the **User Guide** in which we try to explain every control and shortcut you need while using the software.
 
-{% page-ref page="../user-guide-1/" %}
+{% page-ref page="../user-guide/" %}
 
 
 
