@@ -10,7 +10,7 @@ The Android application requires version 5.0+ and OTG support.
 
 Now, you are ready to go! You can enjoy the software. You can connect the device to the PC via USB cable and OTG. After the connection is established, you will see the signals on the screen.
 
-Before starting to use the software, we recommend you to go through the **User guide/Mobile Application**.
+Before starting to use the software, we recommend you to go through the **User Guide/Mobile Application**.
 
 {% page-ref page="../user-guide/mobile-application.md" %}
 

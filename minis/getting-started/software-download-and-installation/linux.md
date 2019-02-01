@@ -17,7 +17,7 @@ The application is installed to **"/opt/Minis/Minis"**. You can find the Minis s
 
 Now, you are ready to go! You can enjoy the software. You can connect the device to the PC via USB cable. After the connection is established, you will see the signals on the screen.
 
-Before starting to use the software, we recommend you to go through the **User guide/Desktop Application**.
+Before starting to use the software, we recommend you to go through the **User Guide/Desktop Application**.
 
 {% page-ref page="../user-guide/desktop-application/" %}
 
