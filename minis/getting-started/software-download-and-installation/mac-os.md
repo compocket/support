@@ -2,6 +2,10 @@
 
 Before you will go further, make sure you download the latest version of the application. You don't want to miss the new features.
 
+{% hint style="warning" %}
+The mac application software can only run in the computers that have dedicated graphic cards. If your mac only includes the integrated graphic card, the application will not work properly.
+{% endhint %}
+
 Run the **minis-x.x.x.pkg** file to start the setup. 
 
 The installer will give the necessary information to install the application. Click **Continue**.
