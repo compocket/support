@@ -3,7 +3,6 @@
 * [Compocket Support](README.md)
 * [Minis](minis/README.md)
   * [Getting Started](minis/getting-started/README.md)
-    * [Setup](minis/getting-started/setup.md)
     * [Software Download & Installation](minis/getting-started/software-download-and-installation/README.md)
       * [Windows](minis/getting-started/software-download-and-installation/windows.md)
       * [Linux](minis/getting-started/software-download-and-installation/linux.md)
