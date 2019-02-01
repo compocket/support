@@ -30,3 +30,7 @@ In this step, the program is installed. If you want to launch the application, y
 
 Now, you are ready to go! You can enjoy the software. The installer has already installed the required usb drivers for the device. You can connect the device to the PC via USB cable. After the connection is established, you will see the signals on the screen.
 
+If you are having a problem with the usb driver, you can check the **Troubleshooting** section.
+
+{% page-ref page="../../troubleshooting.md" %}
+
