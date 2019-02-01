@@ -30,6 +30,7 @@
         * [Preferences](minis/getting-started/user-guide/desktop-application/preferences.md)
         * [Software Update](minis/getting-started/user-guide/desktop-application/software-update.md)
         * [Firmware Update](minis/getting-started/user-guide/desktop-application/firmware-update.md)
+  * [Change Log](minis/change-log.md)
   * [Troubleshooting](minis/troubleshooting.md)
   * [FAQ](minis/faq.md)
 * [Order & Shipping](order-and-shipping.md)
