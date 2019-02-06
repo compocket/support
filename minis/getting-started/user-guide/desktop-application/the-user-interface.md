@@ -6,7 +6,7 @@ The desktop application version for this guide is 1.1.0. If you have the previou
 
 The main window of the application can be seen below:
 
-![](../../../../.gitbook/assets/image%20%289%29.png)
+![](../../../../.gitbook/assets/image%20%2812%29.png)
 
 1. This indicates the desktop application software together with the usb connection status of the device. If the device is connected, it will show **"Minis 1.1.0 \(Connected\)"** and theme will be **green**. Otherwise it will show **"Minis 1.1.0 \(Disconnected\)"** and the theme will be **red**.
 2. These arrows hide the left and right control panels to increase the scope area.
