@@ -4,7 +4,7 @@ We try to make the software as flexiable as possible for the users. We try to gi
 
 When you right click on the **Buffer Navigator**, you see a popup. After clicking on it, Buffer Settings window opens.
 
-![](../../../../.gitbook/assets/image%20%281%29.png)
+![](../../../../.gitbook/assets/image%20%282%29.png)
 
 **Buffer Depth:** You can change the buffer depth. \(Default: 4096\)  
 **FPS Limit:** \(Default: 60\)  

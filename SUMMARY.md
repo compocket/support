@@ -22,7 +22,7 @@
         * [Buffer Settings](minis/getting-started/user-guide/desktop-application/buffer-settings.md)
         * [Measurements](minis/getting-started/user-guide/desktop-application/measurements.md)
         * [Simple Functions](minis/getting-started/user-guide/desktop-application/simple-functions.md)
-        * [Custom Functions](minis/getting-started/user-guide/desktop-application/custom-functions.md)
+        * [Advanced Functions](minis/getting-started/user-guide/desktop-application/custom-functions.md)
         * [FFT](minis/getting-started/user-guide/desktop-application/fft.md)
         * [XY Graph](minis/getting-started/user-guide/desktop-application/xy-graph.md)
         * [Dockable & Floating Layouts](minis/getting-started/user-guide/desktop-application/dockable-and-floating-layouts.md)
