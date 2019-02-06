@@ -4,7 +4,7 @@ Cursors are one of the fundamental features for oscilloscopes. They will help yo
 
 To add a cursor to the scope, you just need to double click on it. After adding the cursor, you can drag it wherever you want. If you drag the cursor out of the screen, it is deleted.  
 
-![](../../../../../.gitbook/assets/image%20%2817%29.png)
+![](../../../../../.gitbook/assets/image%20%2818%29.png)
 
 At the top of the cursor, you see the value of every signal at the time where the cursor is located. 
 
@@ -18,9 +18,9 @@ When you right click the cursor, you will see a menu. "Delete" and "Clear all" o
 
 In the below pictures, you will see the difference between time-fixed and point-fixed cursors. The left cursor is time-fixed, the right one is point-fixed.
 
-![](../../../../../.gitbook/assets/image%20%2838%29.png)
+![](../../../../../.gitbook/assets/image%20%2841%29.png)
 
-![](../../../../../.gitbook/assets/image%20%2819%29.png)
+![](../../../../../.gitbook/assets/image%20%2821%29.png)
 
 As you see, the left cursor\(time-fixed\) is still located at -4ms, whereas the right cursor\(point-fixed\) is still in the same position on the screen.
 

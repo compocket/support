@@ -6,15 +6,15 @@ Run the **minis\_setup\_x.x.x.exe** file to start the setup. You may encounter a
 
 To continue, click **Run**. After this point, the installation starts.
 
-![](../../../.gitbook/assets/image%20%2834%29.png)
+![](../../../.gitbook/assets/image%20%2836%29.png)
 
 You need the choose the option **"I accept the agreement"** and click **Next** to continue with the installation.
 
-![](../../../.gitbook/assets/image%20%2855%29.png)
+![](../../../.gitbook/assets/image%20%2860%29.png)
 
 Here you can select the destination folder, however it is recommended to leave this as it is. Click **Next** again to continue.
 
-![](../../../.gitbook/assets/image%20%2832%29.png)
+![](../../../.gitbook/assets/image%20%2834%29.png)
 
 Now, you can select the option **"Create a desktop shortcut"** to open the application easily. Click **Next** again to continue.
 
@@ -22,7 +22,7 @@ Now, you can select the option **"Create a desktop shortcut"** to open the appli
 
 After that, the installer shows you the necessary information regarding the installation. Click **Install** to continue.
 
-![](../../../.gitbook/assets/image%20%2827%29.png)
+![](../../../.gitbook/assets/image%20%2829%29.png)
 
 In this step, the program is installed. If you want to launch the application, you can check **"Launch Minis"** option and click **Finish**. This will open the application.
 
