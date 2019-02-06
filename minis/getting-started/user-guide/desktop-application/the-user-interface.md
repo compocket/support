@@ -6,7 +6,7 @@ The desktop application version for this guide is 1.1.0. If you have the previou
 
 The main window of the application can be seen below:
 
-![](../../../../.gitbook/assets/image%20%2814%29.png)
+![](../../../../.gitbook/assets/image%20%2816%29.png)
 
 1. This indicates the desktop application software together with the usb connection status of the device. If the device is connected, it will show **"Minis 1.1.0 \(Connected\)"** and theme will be **green**. Otherwise it will show **"Minis 1.1.0 \(Disconnected\)"** and the theme will be **red**.
 2. These arrows hide the left and right control panels to increase the scope area.
@@ -22,5 +22,19 @@ The main window of the application can be seen below:
 12. This area consists of 3 tabs: Signals, Measurements and Functions. In the "Signals" tab, you can see the channels and additional signals which are the output of the math functions. You can change the color of all signals, you can see the equation of the math signals and you can delete the math signals. In the "Measurements" tab, you can add measurements for all the signals. To learn more about the measurements, check the page [**Measurements**](measurements.md). In the "Functions" tab, you can make simple math operations on the signals. Check the page [**Simple Functions**](simple-functions.md) ****for other information.
 13. This floating action button opens another set of control buttons. You will see the explanation for these buttons in the upcoming pages.
 
+The below image shows the floating action buttons in the open state.
 
+![](../../../../.gitbook/assets/image%20%2832%29.png)
+
+1. It opens/closes other floating action buttons.
+2. It opens/closes export options. 2.1 It exports the view that is visible between the left and right control panels as PNG. 2.2 It exports a PDF that includes a PNG\(same as 2.1\) and a table\(values are from the measurement table\) 2.3 It exports the time-domain and frequency-domain\(if visible\) values as XLSX. 2.4 It exports the time-domain and frequency-domain\(if visible\) values as MAT file\(for matlab\).
+3. It opens the **Functions** page. For details, check [**Advanced Functions**](custom-functions.md)**.**
+4. It opens the [**Contact** ](contact.md)page.
+5. It opens/closes other settings related floating action buttons.
+
+   5.1 It opens the [**Preferences** ](preferences.md)page.  
+   5.2 It opens the [**Firmware Update**](firmware-update.md) page.  
+   5.3 It checks whether a newer version of the software application exists. Check [**Software Update**](software-update.md) ****for more information**.**
+
+6. It opens the Compocket's [**website**](https://compocket.com/). 
 

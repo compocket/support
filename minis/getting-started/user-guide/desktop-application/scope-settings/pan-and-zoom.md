@@ -6,5 +6,5 @@ In this page for the "zoom" part, we only talk about the rectangular zoom. Other
 
 For rectangular zoom,  you need to hold the CTRL key while dragging the mouse. The center of the rectangle is going to be the center of the zoom operation. 
 
-![](../../../../../.gitbook/assets/image%20%2813%29.png)
+![](../../../../../.gitbook/assets/image%20%2815%29.png)
 
