@@ -8,11 +8,11 @@ In the auto mode, the device tries to trigger the waveform continuously accordin
   
 In addition to trigger mode, you can also select the trigger edge as **rising** and **falling**. 
 
-![](../../../../../.gitbook/assets/image%20%282%29.png)
+![](../../../../../.gitbook/assets/image%20%283%29.png)
 
 You can change the trigger settings from this user interface. 
 
-![](../../../../../.gitbook/assets/image%20%2840%29.png)
+![](../../../../../.gitbook/assets/image%20%2853%29.png)
 
 Or alternatively, you can right click on the channel waveform and change the trigger settings.
 

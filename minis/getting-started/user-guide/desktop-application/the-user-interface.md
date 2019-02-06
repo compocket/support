@@ -6,7 +6,7 @@ The desktop application version for this guide is 1.1.0. If you have the previou
 
 The main window of the application can be seen below:
 
-![](../../../../.gitbook/assets/image%20%2819%29.png)
+![](../../../../.gitbook/assets/image%20%2821%29.png)
 
 1. This indicates the desktop application software together with the usb connection status of the device. If the device is connected, it will show **"Minis 1.1.0 \(Connected\)"** and theme will be **green**. Otherwise it will show **"Minis 1.1.0 \(Disconnected\)"** and the theme will be **red**.
 2. These arrows hide the left and right control panels to increase the scope area.
@@ -24,7 +24,7 @@ The main window of the application can be seen below:
 
 The below image shows the floating action buttons in the open state.
 
-![](../../../../.gitbook/assets/image%20%2839%29.png)
+![](../../../../.gitbook/assets/image%20%2852%29.png)
 
 1. It opens/closes other floating action buttons.
 2. It opens/closes export options. 2.1 It exports the view that is visible between the left and right control panels as PNG. 2.2 It exports a PDF that includes a PNG\(same as 2.1\) and a table\(values are from the measurement table\) 2.3 It exports the time-domain and frequency-domain\(if visible\) values as XLSX. 2.4 It exports the time-domain and frequency-domain\(if visible\) values as MAT file\(for matlab\).
