@@ -2,7 +2,7 @@
 
 As we said before, we try to give as much control as possible to the user. Giving only simple math operations is not enough for us. That's why we created the **Functions** page in which user can use advanced math operations with block diagram.
 
-![](../../../../.gitbook/assets/image%20%2854%29.png)
+![](../../../../.gitbook/assets/image%20%2858%29.png)
 
 {% hint style="info" %}
 To use the blocks, you need to drag them to the area.  
@@ -11,33 +11,33 @@ To change the settings of the block, you need to right click on it.
 
 ### **Inputs**
 
-\*\*\*\*![](../../../../.gitbook/assets/image%20%289%29.png) : You can select a signal as input and determine the gain. 
+\*\*\*\*![](../../../../.gitbook/assets/image%20%2810%29.png) : You can select a signal as input and determine the gain. 
 
-![](../../../../.gitbook/assets/image%20%2867%29.png) : It gives a dc signal with a desired offset.
+![](../../../../.gitbook/assets/image%20%2872%29.png) : It gives a dc signal with a desired offset.
 
-![](../../../../.gitbook/assets/image%20%2817%29.png) : It gives a sine signal with a desired offset, amplitude, phase and frequency.
+![](../../../../.gitbook/assets/image%20%2818%29.png) : It gives a sine signal with a desired offset, amplitude, phase and frequency.
 
-![](../../../../.gitbook/assets/image%20%2849%29.png) : It gives a cosine signal with a desired offset, amplitude, phase and frequency.
+![](../../../../.gitbook/assets/image%20%2853%29.png) : It gives a cosine signal with a desired offset, amplitude, phase and frequency.
 
-![](../../../../.gitbook/assets/image%20%2836%29.png) : It gives a square signal with a desired offset, amplitude, phase and frequency.
+![](../../../../.gitbook/assets/image%20%2839%29.png) : It gives a square signal with a desired offset, amplitude, phase and frequency.
 
 ### **Functions**
 
-\*\*\*\*![](../../../../.gitbook/assets/image%20%2861%29.png) : The basic operations. All of them take 2 inputs.  
+\*\*\*\*![](../../../../.gitbook/assets/image%20%2866%29.png) : The basic operations. All of them take 2 inputs.  
 
-![](../../../../.gitbook/assets/image%20%2833%29.png) : Logic AND gate. It takes 2 inputs.
+![](../../../../.gitbook/assets/image%20%2835%29.png) : Logic AND gate. It takes 2 inputs.
 
-![](../../../../.gitbook/assets/image%20%2864%29.png) : Logic NAND gate. It takes 2 inputs.
+![](../../../../.gitbook/assets/image%20%2869%29.png) : Logic NAND gate. It takes 2 inputs.
 
-![](../../../../.gitbook/assets/image%20%2842%29.png) : Logic OR gate. It takes 2 inputs.
+![](../../../../.gitbook/assets/image%20%2845%29.png) : Logic OR gate. It takes 2 inputs.
 
-![](../../../../.gitbook/assets/image%20%2828%29.png) : Logic NOR gate. It takes 2 inputs.
+![](../../../../.gitbook/assets/image%20%2829%29.png) : Logic NOR gate. It takes 2 inputs.
 
-![](../../../../.gitbook/assets/image%20%2830%29.png) : Logic XOR gate. It takes 2 inputs.
+![](../../../../.gitbook/assets/image%20%2831%29.png) : Logic XOR gate. It takes 2 inputs.
 
-![](../../../../.gitbook/assets/image%20%2851%29.png) : Logic XNOR gate. It takes 2 inputs.
+![](../../../../.gitbook/assets/image%20%2855%29.png) : Logic XNOR gate. It takes 2 inputs.
 
-![](../../../../.gitbook/assets/image%20%2869%29.png) : Logic NOT gate. It takes only 1 input.
+![](../../../../.gitbook/assets/image%20%2874%29.png) : Logic NOT gate. It takes only 1 input.
 
 {% hint style="info" %}
 All the logic gates have 4 features in common. You can set the VCC+, VCC- , HIGH voltage and LOW voltage for every logic gate. 
@@ -47,23 +47,23 @@ If the input value is between LOW and VCC-, it is considered as logic 0. If the 
 If the output of the logic is 1, corresponding analog value is VCC+. If the output of the logic is 0, corresponding analog value is VCC-.
 {% endhint %}
 
-![](../../../../.gitbook/assets/image%20%2853%29.png) : Comparator. If Input1 &gt; Input2, the output is VCC+, otherwise VCC-.
+![](../../../../.gitbook/assets/image%20%2857%29.png) : Comparator. If Input1 &gt; Input2, the output is VCC+, otherwise VCC-.
 
 ![](../../../../.gitbook/assets/image.png) : Inverting Schmitt Trigger. 
 
-![](../../../../.gitbook/assets/image%20%2812%29.png) : Non-inverting Schmitt Trigger.
+![](../../../../.gitbook/assets/image%20%2813%29.png) : Non-inverting Schmitt Trigger.
 
 ![Inverting and Noninverting Schmitt Trigger Diagrams](../../../../.gitbook/assets/untitled-diagram.png)
 
 ### **Filters**
 
-![](../../../../.gitbook/assets/image%20%2819%29.png) : Low Pass Filter.
+![](../../../../.gitbook/assets/image%20%2820%29.png) : Low Pass Filter.
 
-![](../../../../.gitbook/assets/image%20%2875%29.png) : High Pass Filter.
+![](../../../../.gitbook/assets/image%20%2880%29.png) : High Pass Filter.
 
-![](../../../../.gitbook/assets/image%20%2866%29.png) : Band Pass Filter.
+![](../../../../.gitbook/assets/image%20%2871%29.png) : Band Pass Filter.
 
-![](../../../../.gitbook/assets/image%20%2823%29.png) : Band Stop Filter.
+![](../../../../.gitbook/assets/image%20%2824%29.png) : Band Stop Filter.
 
 {% hint style="info" %}
 All the filters are Butterworth filters.   
@@ -73,7 +73,7 @@ For BPF and BSF, you can select the order, the centeral frequency and the bandwi
 
 ### Outputs
 
-![](../../../../.gitbook/assets/image%20%2848%29.png) : The output. To complete the block diagram, you need to add this block to the end. Every out block corresponds a new signal.
+![](../../../../.gitbook/assets/image%20%2852%29.png) : The output. To complete the block diagram, you need to add this block to the end. Every out block corresponds a new signal.
 
 ![](../../../../.gitbook/assets/a186e98a-fbf6-11e8-aaf5-0050560101a3.gif)
 
@@ -104,7 +104,7 @@ CTRL + S : Save the current workspace.
 DEL : When the mouse is hovering on a block, if you press DEL, you delete that block. If that block is a selected block and there are more selected blocks, all the selected blocks are deleted. 
 {% endhint %}
 
-When you click the ![](../../../../.gitbook/assets/image%20%2868%29.png) button, the software checks the connections and create a new signal that is calculated according to the block diagram. If there are any problems in the connection, the software shows the error message. 
+When you click the ![](../../../../.gitbook/assets/image%20%2873%29.png) button, the software checks the connections and create a new signal that is calculated according to the block diagram. If there are any problems in the connection, the software shows the error message. 
 
 {% hint style="warning" %}
 The signal source for the "in" should be selected.  
@@ -113,7 +113,7 @@ The input of every "out" blocks should be connected.
 The input of every block that is a part of a path which is ended with "out" should be connected.
 {% endhint %}
 
-![](../../../../.gitbook/assets/image%20%2816%29.png)
+![](../../../../.gitbook/assets/image%20%2817%29.png)
 
 The color of **SAVE** button indicates whether the current workspace is saved or not. By clicking on it, you can save the workspace. 
 
