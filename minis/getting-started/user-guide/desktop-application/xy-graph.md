@@ -10,16 +10,16 @@ To open the XY window:
 To determine the signals for x-axis and y-axis:  
     Select the signals from the spinner.
 
-The ![](../../../../.gitbook/assets/image%20%2817%29.png) button reverses the selected signals. 
+The ![](../../../../.gitbook/assets/image%20%2818%29.png) button reverses the selected signals. 
 {% endhint %}
 
 In the below images, you can see couple of examples that illustrates the phase difference and frequency difference effects in XY graph.
 
-![2 signals with the same frequency and 90 degree phase shift](../../../../.gitbook/assets/image%20%2853%29.png)
+![2 signals with the same frequency and 90 degree phase shift](../../../../.gitbook/assets/image%20%2854%29.png)
 
-![2 signals with the same frequency and 0 degree phase difference](../../../../.gitbook/assets/image%20%2880%29.png)
+![2 signals with the same frequency and 0 degree phase difference](../../../../.gitbook/assets/image%20%2881%29.png)
 
-![The frequency of y-axis signal is two times the frequency of x-axis signal and 0 degree phase difference ](../../../../.gitbook/assets/image%20%2842%29.png)
+![The frequency of y-axis signal is two times the frequency of x-axis signal and 0 degree phase difference ](../../../../.gitbook/assets/image%20%2843%29.png)
 
-![The frequency of y-axis signal is three times the frequency of x-axis signal and 0 degree phase difference ](../../../../.gitbook/assets/image%20%2827%29.png)
+![The frequency of y-axis signal is three times the frequency of x-axis signal and 0 degree phase difference ](../../../../.gitbook/assets/image%20%2828%29.png)
 
