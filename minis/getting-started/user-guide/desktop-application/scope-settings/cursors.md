@@ -18,9 +18,9 @@ When you right click the cursor, you will see a menu. "Delete" and "Clear all" o
 
 In the below pictures, you will see the difference between time-fixed and point-fixed cursors. The left cursor is time-fixed, the right one is point-fixed.
 
-![](../../../../../.gitbook/assets/image%20%2858%29.png)
+![](../../../../../.gitbook/assets/image%20%2861%29.png)
 
-![](../../../../../.gitbook/assets/image%20%2827%29.png)
+![](../../../../../.gitbook/assets/image%20%2828%29.png)
 
 As you see, the left cursor\(time-fixed\) is still located at -4ms, whereas the right cursor\(point-fixed\) is still in the same position on the screen.
 

@@ -15,13 +15,13 @@ The ![](../../../../.gitbook/assets/image%20%2815%29.png) button reverses the se
 
 In the below images, you can see couple of examples that illustrates the phase difference and frequency difference effects in XY graph.
 
-![2 signals with the same frequency and 90 degree phase shift](../../../../.gitbook/assets/image%20%2845%29.png)
+![2 signals with the same frequency and 90 degree phase shift](../../../../.gitbook/assets/image%20%2847%29.png)
 
-![2 signals with the same frequency and 0 degree phase difference](../../../../.gitbook/assets/image%20%2872%29.png)
+![2 signals with the same frequency and 0 degree phase difference](../../../../.gitbook/assets/image%20%2875%29.png)
 
-![The frequency of y-axis signal is two times the frequency of x-axis signal and 0 degree phase difference ](../../../../.gitbook/assets/image%20%2846%29.png)
+![The frequency of y-axis signal is two times the frequency of x-axis signal and 0 degree phase difference ](../../../../.gitbook/assets/image%20%2848%29.png)
 
-![The frequency of y-axis signal is three times the frequency of x-axis signal and 0 degree phase difference ](../../../../.gitbook/assets/image%20%2856%29.png)
+![The frequency of y-axis signal is three times the frequency of x-axis signal and 0 degree phase difference ](../../../../.gitbook/assets/image%20%2859%29.png)
 
 
 
