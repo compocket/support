@@ -29,13 +29,3 @@ If you can't see the scope screen like the below image, your graphics card's dri
 * You need to make sure that you have the **Minis.kext** file to communicate with the device.
 * The .kext file should be located at **/System/Library/Extensions.** 
 
-\*\*\*\*
-
-
-
-####  
-
-
-
-
-
