@@ -2,7 +2,7 @@
 
 There are many settings of the signals that you might change. In this page, you learn how to change all these settings for the signal. Let's begin with the context menu which will open when you right click on a signal.
 
-![](../../../../.gitbook/assets/image%20%2877%29.png)
+![](../../../../.gitbook/assets/image%20%2879%29.png)
 
 **Set as Trigger Source:** This option makes the signal trigger source.  
 **Trigger Option:** You can set the trigger option as auto, normal or single.  
@@ -13,13 +13,13 @@ There are many settings of the signals that you might change. In this page, you 
 
 In the left control plane, you can select the signal that you want to change the settings of. After selecting the signal, you can set the volt/div of the signal, change the visibility and change the coupling as DC or AC.
 
-![](../../../../.gitbook/assets/image%20%2883%29.png)
+![](../../../../.gitbook/assets/image%20%2886%29.png)
 
 Additionally, you can change the color of the signal or delete it from the **Signals** tab that is located in the right control plane.
 
-![](../../../../.gitbook/assets/image%20%2812%29.png)
+![](../../../../.gitbook/assets/image%20%2813%29.png)
 
-![](../../../../.gitbook/assets/image%20%2821%29.png)
+![](../../../../.gitbook/assets/image%20%2823%29.png)
 
 
 
