@@ -22,7 +22,7 @@ If you can't see the scope screen like the below image, your graphics card's dri
 
 #### **For Linux:**
 
-* You need to make sure that you have the permission to access the USB as a current user.
+* You need to make sure that you have the permission to access the USB as the current user.
 
 #### For Mac OS:
 
