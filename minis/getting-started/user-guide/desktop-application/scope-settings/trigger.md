@@ -12,7 +12,7 @@ In addition to trigger mode, you can also select the trigger edge as **rising** 
 
 You can change the trigger settings from this user interface. 
 
-![](../../../../../.gitbook/assets/image%20%2885%29.png)
+![](../../../../../.gitbook/assets/image%20%2889%29.png)
 
 Or alternatively, you can right click on the channel waveform and change the trigger settings.
 
