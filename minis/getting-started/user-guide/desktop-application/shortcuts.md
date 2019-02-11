@@ -4,13 +4,13 @@
 | :--- | :--- | :--- |
 | Autoset | Enter | Main window |
 | Reset axes | Space | Scope, XY Graph, FFT Graph |
-| Adding cursors | Double click | Scope, FFT Graph |
+| Add cursors | Double click | Scope, FFT Graph |
 | Tracker | Right click + SHIFT | Scope, FFT Graph |
 | Rectangular zoom | Left click + CTRL | Scope |
-| Changing time/div | Scroll | Scope, time axis of the scope  |
-| Changing single signal volt/div | Scroll | Left & right Volt axes of the scope |
-| Changing single signal volt/div | Scroll + CTRL+Hover | Scope |
-| Changing all signals volt/divs | Scroll + CTRL | Scope |
+| Change time/div | Scroll | Scope, time axis of the scope  |
+| Change single signal volt/div | Scroll | Left & right Volt axes of the scope |
+| Change single signal volt/div | Scroll + CTRL+Hover | Scope |
+| Change all signals volt/divs | Scroll + CTRL | Scope |
 | Scope Settings | Right click | Scope |
 | Buffer Settings | Right click | Buffer navigator |
 | Signal Settings | Right click + Hover | Scope |
