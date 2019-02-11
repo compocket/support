@@ -2,7 +2,7 @@
 
 The software provides the user with 4 different export option: **PNG, PDF, XLSX** and **MAT.**
 
-![](../../../../.gitbook/assets/image%20%2870%29.png)
+![](../../../../.gitbook/assets/image%20%2871%29.png)
 
 If you export as **PNG**, the application saves the screenshot of the area between left and right control panel as image file.
 

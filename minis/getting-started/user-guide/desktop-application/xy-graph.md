@@ -17,7 +17,7 @@ In the below images, you can see couple of examples that illustrates the phase d
 
 ![2 signals with the same frequency and 90 degree phase shift](../../../../.gitbook/assets/image%20%2853%29.png)
 
-![2 signals with the same frequency and 0 degree phase difference](../../../../.gitbook/assets/image%20%2879%29.png)
+![2 signals with the same frequency and 0 degree phase difference](../../../../.gitbook/assets/image%20%2880%29.png)
 
 ![The frequency of y-axis signal is two times the frequency of x-axis signal and 0 degree phase difference ](../../../../.gitbook/assets/image%20%2842%29.png)
 

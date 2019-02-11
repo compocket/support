@@ -24,7 +24,7 @@ The main window of the application can be seen below:
 
 The below image shows the floating action buttons in the open state.
 
-![](../../../../.gitbook/assets/image%20%2888%29.png)
+![](../../../../.gitbook/assets/image%20%2889%29.png)
 
 1. It opens/closes other floating action buttons.
 2. It opens/closes export options. 2.1 It exports the view that is visible between the left and right control panels as PNG. 2.2 It exports a PDF that includes a PNG\(same as 2.1\) and a table\(values are from the measurement table\) 2.3 It exports the time-domain and frequency-domain\(if visible\) values as XLSX. 2.4 It exports the time-domain and frequency-domain\(if visible\) values as MAT file\(for matlab\).

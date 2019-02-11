@@ -14,7 +14,7 @@ Above the scope, there is a buffer navigator. It shows the complete buffer and h
 
 The scope area has a context menu. This means, when you right click on the plot area, you will see a menu that help you to control some scope settings.
 
-![](../../../../../.gitbook/assets/image%20%2871%29.png)
+![](../../../../../.gitbook/assets/image%20%2872%29.png)
 
 **Show Division Settings:** It will toggle the visibility of the labels that show the volt/div of each visible signals time time/div.  
 **Lock volt offset:** If it is not selected, the center point of the zoom operation is the mouse location. If it is selected, the zoom operation is zero-centered.   
