@@ -8,5 +8,5 @@ For mobile application, we only support Android devices for now. As soon as we p
 
 {% page-ref page="desktop-application/" %}
 
-{% page-ref page="mobile-application.md" %}
+{% page-ref page="mobile-application/" %}
 

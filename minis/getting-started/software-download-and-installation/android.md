@@ -12,5 +12,5 @@ Now, you are ready to go! You can enjoy the software. You can connect the device
 
 Before starting to use the software, we recommend you to go through the **User Guide/Mobile Application**.
 
-{% page-ref page="../user-guide/mobile-application.md" %}
+{% page-ref page="../user-guide/mobile-application/" %}
 

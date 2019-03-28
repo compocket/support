@@ -2,7 +2,7 @@
 
 The software provides the user with 4 different export option: **PNG, PDF, XLSX** and **MAT.**
 
-![](../../../../.gitbook/assets/image%20%2872%29.png)
+![](../../../../.gitbook/assets/image%20%2874%29.png)
 
 If you export as **PNG**, the application saves the screenshot of the area between left and right control panel as image file.
 
@@ -10,13 +10,13 @@ If you export as **PNG**, the application saves the screenshot of the area betwe
 
 If you export as **PDF**, the application saves the screenshot of the area between left and right control panel together with a table which consists of the measurements as pdf file.
 
-![Export as PDF](../../../../.gitbook/assets/image%20%2859%29.png)
+![Export as PDF](../../../../.gitbook/assets/image%20%2860%29.png)
 
 If you export as **XLSX**, the application creates a XLSX file that includes 2 tabs: Time-domain, Frequency-domain. It takes the values from the buffer and fft calculations.
 
  
 
-![Export as XLSX](../../../../.gitbook/assets/image%20%2848%29.png)
+![Export as XLSX](../../../../.gitbook/assets/image%20%2849%29.png)
 
 {% hint style="info" %}
 To see the time-domain values of the signal, it should be visible.
