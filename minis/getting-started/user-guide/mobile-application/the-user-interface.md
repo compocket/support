@@ -16,5 +16,7 @@ The main screen of the application can be seen below:
 10. Play/Pause button. It starts/stops the device. 
 11. The scope area includes a graph that displays the signal values in the time domain. The graph shows both the time values and volt values for the channels. For other details about scope, check [**Scope Settings**](scope-settings/).
 12. It gives information about the acquisition, sampling rate, buffer depth and ADC range.
-13. This floating action button opens another set of control buttons.
+13. This floating action button opens another set of control buttons. You can share the screenshot of the graph, follow the tutorial or [**update** ](firmware-update.md)your device's firmware. 
+
+
 
