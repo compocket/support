@@ -1,5 +1,23 @@
 # Change Log
 
+## 1.1.1 - Apr 29, 2019 <a id="1-0-0-nov-03-2018"></a>
+
+### Added <a id="added"></a>
+
+* User-guiding.
+* Support documents.
+* Calibration.
+* Turkish language support.
+
+### Fixed <a id="fixed"></a>
+
+* Firmware update bug.
+* Software update bug.
+
+### Changed <a id="fixed"></a>
+
+* PID, VID and required usb drivers.
+
 ## 1.1.0 - Jan 03, 2019 <a id="1-0-0-nov-03-2018"></a>
 
 ### Added <a id="added"></a>
