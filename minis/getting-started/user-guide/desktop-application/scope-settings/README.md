@@ -4,7 +4,7 @@ The scope is the most important part of the application. Here, you can observe t
 
 ![](../../../../../.gitbook/assets/image%20%2825%29.png)
 
-The left axis of the scope displays the values of the Channel-1 that intersect with the equally spaced horizontal line. The volt/div for the left axis is determined by the Channel-1. Similarly, the right axis is for the Channel-2. The volt/div for the right axis is determined by the Channel-2. The only difference is that if the mouse hovers over a signal different than channels, let's say S3, the right axis values are determined by S3. The time axis is a global axis. Every signal has the same time values. You can look at [**Volt/div & Time/div Settings**](volt-div-and-time-div-settings.md) ****to learn how to change these values.
+The left axis of the scope displays the values of the Channel-1 that intersect with the equally spaced horizontal lines. The volt/div for the left axis is determined by the Channel-1. Similarly, the right axis is for the Channel-2. The volt/div for the right axis is determined by the Channel-2. The only difference is that if the mouse hovers over a signal different than channels, let's say S3, the right axis values are determined by S3. The time axis is a global axis. Every signal has the same time values. You can look at [**Volt/div & Time/div Settings**](volt-div-and-time-div-settings.md) ****to learn how to change these values.
 
 In the above picture, there is a horizontal line vertically centered which is in the color of the Channel-1. This means, the oscilloscope is triggered according to the Channel-1 and the triggering value is determined as 0V. You can move this line, to change the trigger position vertically. For details, check [**Trigger**](trigger.md) ****page. 
 

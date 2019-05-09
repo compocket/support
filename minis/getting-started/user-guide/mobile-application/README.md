@@ -9,7 +9,7 @@ The mobile application and desktop application have some similarities and differ
 {% hint style="info" %}
 We do not have Advanced Functions, Dockable & Floating Layouts in Android application unlike to Desktop application. We do not plan to add them for now.
 
-We haven't implemented the FFT graph and export options\(except PNG\) in Android application yet. However, we are going to add them as soon as possible. 
+We haven't added export options\(except PNG\) in Android application yet. However, we are going to add them as soon as possible. 
 {% endhint %}
 
 In the next page, you will be introduced with the main screen of the application, then you will learn what each component does. After that the guide will walk you through the important functionalities.
