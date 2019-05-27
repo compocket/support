@@ -32,7 +32,7 @@ The default window function is selected as **Rectangular.** You can select the w
 * Flat Top
 * Kaiser
 
-![](../../../../.gitbook/assets/image%20%2882%29.png)
+![](../../../../.gitbook/assets/image%20%2883%29.png)
 
 {% hint style="warning" %}
 The frequency range is calculated as:   

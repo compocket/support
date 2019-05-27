@@ -11,7 +11,7 @@
     * [User Guide](minis/getting-started/user-guide/README.md)
       * [Desktop Application](minis/getting-started/user-guide/desktop-application/README.md)
         * [The User Interface](minis/getting-started/user-guide/desktop-application/the-user-interface.md)
-        * [Scope Settings](minis/getting-started/user-guide/desktop-application/scope-settings/README.md)
+        * [Oscilloscope Settings](minis/getting-started/user-guide/desktop-application/scope-settings/README.md)
           * [Volt/div & Time/div Settings](minis/getting-started/user-guide/desktop-application/scope-settings/volt-div-and-time-div-settings.md)
           * [Drag & Zoom](minis/getting-started/user-guide/desktop-application/scope-settings/pan-and-zoom.md)
           * [Cursors](minis/getting-started/user-guide/desktop-application/scope-settings/cursors.md)

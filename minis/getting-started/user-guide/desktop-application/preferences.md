@@ -6,7 +6,7 @@ As we said before, we try to make the application as flexiable as possible for t
 As you make changes, you can see the effects in real-time.
 {% endhint %}
 
-![Color Settings](../../../../.gitbook/assets/image%20%28101%29.png)
+![Color Settings](../../../../.gitbook/assets/image%20%28104%29.png)
 
 ### Color Settings
 

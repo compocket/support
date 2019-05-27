@@ -2,7 +2,7 @@
 
 In the previous pages, you learn how to open the FFT window and XY graph. When you open both of them, you see something like the below image.
 
-![](../../../../.gitbook/assets/image%20%2898%29.png)
+![](../../../../.gitbook/assets/image%20%2899%29.png)
 
 The **Scope, FFT, XY** and **Measurements** layouts are dockable and floatable. 
 
@@ -16,7 +16,7 @@ The docking feature and tab windows are not supported for Linux in the time bein
 
 The region which is shown with the green polygon is the region where you can change the size of these 4 layouts.
 
-![](../../../../.gitbook/assets/image%20%2879%29.png)
+![](../../../../.gitbook/assets/image%20%2880%29.png)
 
 By dragging one of these windows you can select where to locate it. As you see in the above picture, The XY window is grabbed and it is hovering on Scope window. If you release the window in **TOP, RIGHT, BOTTOM** or **LEFT** positions, the XY window and Scope window will be arranged that way. 
 
@@ -28,7 +28,7 @@ If you released the window in the **CENTER**, The scope and xy windows turn to t
 
 If you release the window somewhere else, the window becomes a floating window. You can dock it again when you want. 
 
-![](../../../../.gitbook/assets/image%20%2864%29.png)
+![](../../../../.gitbook/assets/image%20%2865%29.png)
 
 Another important feature that worths to mention is that when you double click on the titles of these windows, they are maximized. To restore it, you need to double click title again.
 
