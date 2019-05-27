@@ -6,7 +6,7 @@ As we said before, we try to make the application as flexiable as possible for t
 As you make changes, you can see the effects in real-time.
 {% endhint %}
 
-![Color Settings](../../../../.gitbook/assets/image%20%28104%29.png)
+![Color Settings](../../../../.gitbook/assets/image%20%28137%29.png)
 
 ### Color Settings
 
@@ -15,7 +15,7 @@ As you make changes, you can see the effects in real-time.
 **Background Color:** The common color of the backgrounds of the buffer navigator, scope, fft graph and xy graph.  
 **Cursor Color:** The color of the cursors.
 
-![Stroke Width Settings](../../../../.gitbook/assets/image%20%2821%29.png)
+![Stroke Width Settings](../../../../.gitbook/assets/image%20%2823%29.png)
 
 ### Stroke Width Settings
 
