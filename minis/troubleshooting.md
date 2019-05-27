@@ -6,7 +6,7 @@ If you can't see the scope screen like the below image, your graphics card's dri
 
 ![](../.gitbook/assets/image%20%283%29.png)
 
-### I connected the device, but I cannot communicate with it.
+### I plugged the device, but I cannot communicate with it.
 
 #### For Windows:
 
@@ -39,6 +39,4 @@ If you are in real-time mode, the trigger is not functional.
 If you are using AC coupling, the actual voltage might have a DC offset, which results in different trigger level from you might except. Try to see the actual signal in DC coupling first. 
 
 
-
-#### 
 
