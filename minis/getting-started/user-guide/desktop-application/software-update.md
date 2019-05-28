@@ -10,13 +10,13 @@ We will do our best to fix it for the next release!
 
 The application checks for updates in the opening. If there is a newer version, you are prompted to download and install it like the below image.
 
-![](../../../../.gitbook/assets/image%20%2895%29.png)
+![](../../../../.gitbook/assets/image%20%2897%29.png)
 
 You can **download** the newer application from the popup. After download is completed, you can **install** it directly. 
 
-![](../../../../.gitbook/assets/image%20%2870%29.png)
+![](../../../../.gitbook/assets/image%20%2871%29.png)
 
 If you want to know the change log, you can click the ![](../../../../.gitbook/assets/image%20%2840%29.png) button. This opens a window that shows some information about the latest release.
 
-![](../../../../.gitbook/assets/image%20%28144%29.png)
+![](../../../../.gitbook/assets/image%20%28148%29.png)
 

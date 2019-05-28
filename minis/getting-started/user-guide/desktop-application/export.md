@@ -1,22 +1,32 @@
 # Export
 
-The software provides the user with 4 different export option: **PNG, PDF, XLSX** and **MAT.**
+The application provides the user with 4 different export option: **PNG, PDF,  CSV** and **MAT.**
 
-![](../../../../.gitbook/assets/image%20%28103%29.png)
+### **PNG**
 
-If you export as **PNG**, the application saves the screenshot of the area between left and right control panel as image file.
+In the png section, you can select the source to get the screenshot. These sources can be Oscilloscope, FFT, XY Graph or Measurement.
 
-![Export as PNG](../../../../.gitbook/assets/exportpng.png)
+![Export as PNG](../../../../.gitbook/assets/image%20%2894%29.png)
 
-If you export as **PDF**, the application saves the screenshot of the area between left and right control panel together with a table which consists of the measurements as pdf file.
+Refresh Data button enables you to get the latest screenshots of all the sources. You do not need to re-open the export window to refresh the sources.
 
-![Export as PDF](../../../../.gitbook/assets/image%20%2883%29.png)
+Copy to Clipboard button make you copy the image without saving it.
 
-If you export as **XLSX**, the application creates a XLSX file that includes 2 tabs: Time-domain, Frequency-domain. It takes the values from the buffer and fft calculations.
+### PDF
 
- 
+In the pdf section, this time, you can select multiple sources to add to the report. In addition, you can add captions for the images and tables.  
 
-![Export as XLSX](../../../../.gitbook/assets/image%20%2868%29.png)
+![Export as PDF](../../../../.gitbook/assets/image%20%2845%29.png)
+
+As you select the sources, you will see that the selected source and its caption are written on the report in preview section.
+
+Refresh Data button enables you to get the latest screenshots of all the sources.
+
+### CSV
+
+In the csv section, you can select the source as Oscilloscope, FFT or XY to get the data.
+
+![Export as CSV](../../../../.gitbook/assets/image%20%28127%29.png)
 
 {% hint style="info" %}
 To see the time-domain values of the signal, it should be visible.
@@ -24,11 +34,21 @@ To see the time-domain values of the signal, it should be visible.
 To see the frequency-domain values of the signal, it should be visible and "Show FFT" option should be selected for that signal.
 {% endhint %}
 
+Refresh Data button enables you to get the latest data of all the sources.
+
+### MAT
+
+In the mat section, you can select the oscilloscope for time-domain and FFT for frequency-domain to add them to the mat struct.
+
+![Export as MAT](../../../../.gitbook/assets/image%20%28146%29.png)
+
 If you export as **MAT**, the application creates a MAT file that includes a struct with a name "Signals". It includes 2 fields: **TimeDomain** and **FrequencyDomain**.  Both of them contain as many elements as the number of signals. 
 
-Each elements in the TimeDomain field contains as many structs as the buffer length, lets say $$n$$. Each struct consists of **t** and **V** fields which correspond to time and voltage values respectively.
+Each struct in the TimeDomain field is a $$Nx1 $$ struct, where $$N$$ is the buffer length. Each element of the struct consists of **t** and **V** fields which correspond to time and voltage values respectively.
 
-Each elements in the Frequency field contains $$n/2 + 1$$ structs. Each struct consists of **f** and **dB** fields which correspond to frequency and amplitude values respectively.
+Each struct in the FrequencyDomain field is a $$nx1 $$ struct, where $$n = N/2+1$$. Each element of the struct consists of **f** and **dB** fields which correspond to frequency and amplitude values respectively.
 
-![Export as MAT](../../../../.gitbook/assets/image%20%2863%29.png)
+![Exported mat struct](../../../../.gitbook/assets/image%20%2864%29.png)
+
+Refresh Data button enables you to get the latest data of all the sources.
 

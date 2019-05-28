@@ -6,7 +6,7 @@ As we said before, we try to make the application as flexible as possible for th
 As you make changes, you can see the effects in real-time.
 {% endhint %}
 
-![Color Settings](../../../../.gitbook/assets/image%20%2858%29.png)
+![Color Settings](../../../../.gitbook/assets/image%20%2859%29.png)
 
 ### Color Settings
 
@@ -15,7 +15,7 @@ As you make changes, you can see the effects in real-time.
 **Background Color:** The common color of the backgrounds of the buffer navigator, oscilloscope, fft graph and xy graph.  
 **Cursor & Text Color:** The color of the cursors and global axes' texts.
 
-![Thickness Settings](../../../../.gitbook/assets/image%20%2892%29.png)
+![Thickness Settings](../../../../.gitbook/assets/image%20%2893%29.png)
 
 ### Thickness Settings
 
