@@ -6,27 +6,27 @@ Run the **minis\_setup\_x.x.x.exe** file to start the setup. You may encounter a
 
 To continue, click **Run**. After this point, the installation starts.
 
-![](../../../.gitbook/assets/image%20%2890%29.png)
+![](../../../.gitbook/assets/image%20%2897%29.png)
 
 You need the choose the option **"I accept the agreement"** and click **Next** to continue with the installation.
 
-![](../../../.gitbook/assets/image%20%28146%29.png)
+![](../../../.gitbook/assets/image%20%28158%29.png)
 
 Here you can select the destination folder, however it is recommended to leave this as it is. Click **Next** again to continue.
 
-![](../../../.gitbook/assets/image%20%2884%29.png)
+![](../../../.gitbook/assets/image%20%2891%29.png)
 
 Now, you can select the option **"Create a desktop shortcut"** to open the application easily. Click **Next** again to continue.
 
-![](../../../.gitbook/assets/image%20%2816%29.png)
+![](../../../.gitbook/assets/image%20%2818%29.png)
 
 After that, the installer shows you the necessary information regarding the installation. Click **Install** to continue.
 
-![](../../../.gitbook/assets/image%20%2869%29.png)
+![](../../../.gitbook/assets/image%20%2875%29.png)
 
 In this step, the program is installed. If you want to launch the application, you can check **"Launch Minis"** option and click **Finish**. This will open the application.
 
-![](../../../.gitbook/assets/image%20%2822%29.png)
+![](../../../.gitbook/assets/image%20%2824%29.png)
 
 Now, you are ready to go! You can enjoy the software. The installer has already installed the required usb drivers for the device. You can connect the device to the PC via USB cable. After the connection is established, you will see the signals on the screen.
 

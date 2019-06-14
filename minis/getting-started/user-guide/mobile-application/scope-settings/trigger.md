@@ -8,9 +8,13 @@ In the auto mode, the device tries to trigger the waveform continuously accordin
   
 In addition to trigger mode, you can also select the trigger edge as **rising** and **falling**. 
 
-![Trigger Dialog](../../../../../.gitbook/assets/59765515_281672786071955_2129732672719683584_n.jpg)
+{% hint style="info" %}
+HF reject option enables the Low-pass filter in the trigger input. This will block the high frequency noise.
+{% endhint %}
 
-From the trigger dialog, as you see above, you can set the trigger source, mode, edge and level.
+![](../../../../../.gitbook/assets/image%20%2833%29.png)
+
+From the trigger dialog, as you see above, you can set the trigger source, mode, edge, level and HF Reject.
 
 The trigger line is in the color of the trigger source. You can change the trigger level by moving the trigger line from the left and the right axes. 
 

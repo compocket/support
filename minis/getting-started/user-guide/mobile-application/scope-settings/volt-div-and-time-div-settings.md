@@ -10,6 +10,6 @@ When you pinch to zoom on the scope area:
 * If the zoom includes vertical movement, and there is no selected signal, you scale the volt/div of every signal.
 * If the zoom includes vertical movement, and there is a selected signal, you only scale the volt/div of the selected signal. 
 
-Another method to change these settings is to tap on the axes.   
+Another method to change these settings is to tap on the axes.  
 
 
