@@ -1,4 +1,4 @@
-# Scope Settings
+# Oscilloscope Settings
 
 The scope is the most important part of the application. Here, you can observe the channels and math signals in the time domain. The scope is divided into 10 equal spaces both horizontally and vertically. Each interval in the horizontal line corresponds to **time/div**. Likewise, each interval in the vertical line corresponds to **volt/div**. 
 

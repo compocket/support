@@ -6,7 +6,7 @@ We may make some changes to the firmware for bug fix, stability and new features
 
 You can click ![](../../../../.gitbook/assets/image%20%282%29.png) button to check the **Firmware Updates**.
 
-![](../../../../.gitbook/assets/image%20%2886%29.png)
+![](../../../../.gitbook/assets/image%20%2888%29.png)
 
-Here you can see the firmware versions, release dates, stability state and change logs. When you click the ![](../../../../.gitbook/assets/image%20%2855%29.png) icon, the application starts the download, then install it to the device.
+Here you can see the firmware versions, release dates, stability state and change logs. When you click the ![](../../../../.gitbook/assets/image%20%2857%29.png) icon, the application starts the download, then install it to the device.
 

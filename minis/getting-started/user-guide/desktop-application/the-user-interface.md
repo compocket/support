@@ -6,12 +6,12 @@ The desktop application version for this guide is 1.2.0. If you have the previou
 
 The main window of the application can be seen below:
 
-![](../../../../.gitbook/assets/image%20%28144%29.png)
+![](../../../../.gitbook/assets/image%20%28147%29.png)
 
 1. This indicates the desktop application software version together with the usb connection status of the device. If the device is connected, it will show **"Minis 1.2.0 \(Connected\)"** and theme will be **green**. Otherwise it will show **"Minis 1.2.0 \(Disconnected\)"** and the theme will be **red**.
 2. These arrows hide the left and right control panels to increase the oscilloscope area.
 3. The oscilloscope area includes the buffer navigator and the graph that display the signal values in the time domain. The buffer navigator shows the complete buffer. In addition, the signal that is visible in the graph is highlighted in the navigator. The graph shows both the time values and volt values for the channels. For other details about buffer, check [**Buffer Settings**](buffer-settings.md). For other details about oscilloscope, check [**Oscilloscope Settings**](scope-settings/).
-4. Play/Pause button. It starts/stops the device.
+4. Play/Pause\(Run/Hold\) button. It starts/stops the device.
 5. Autoset button. The system tries to find the best volt/div and time/div values for better observation.
 6.  In this area, you can select the trigger source \(CH1/CH2\), trigger mode\(Auto, Normal, Single\) and trigger edge\(Rising, Falling\). In addition you can enable High Frequency Rejection. You can find other details in the [**Trigger** ](scope-settings/trigger.md)section.
 7. These tabs help you select the signals that you want to change the settings of.
@@ -25,7 +25,7 @@ The main window of the application can be seen below:
 
 The below image shows the floating action buttons in the open state.
 
-![](../../../../.gitbook/assets/image%20%28141%29.png)
+![](../../../../.gitbook/assets/image%20%28144%29.png)
 
 1. It opens/closes other floating action buttons.
 2. It opens the **Functions** page. For details, check [**Advanced Functions**](custom-functions.md)**.**

@@ -33,7 +33,7 @@
         * [Shortcuts](minis/getting-started/user-guide/desktop-application/shortcuts.md)
       * [Mobile Application](minis/getting-started/user-guide/mobile-application/README.md)
         * [The User Interface](minis/getting-started/user-guide/mobile-application/the-user-interface.md)
-        * [Scope Settings](minis/getting-started/user-guide/mobile-application/scope-settings/README.md)
+        * [Oscilloscope Settings](minis/getting-started/user-guide/mobile-application/scope-settings/README.md)
           * [Volt/div & Time/div Settings](minis/getting-started/user-guide/mobile-application/scope-settings/volt-div-and-time-div-settings.md)
           * [Cursors](minis/getting-started/user-guide/mobile-application/scope-settings/cursors.md)
           * [Trigger](minis/getting-started/user-guide/mobile-application/scope-settings/trigger.md)
