@@ -1,12 +1,34 @@
 # Change Log
 
+## 1.2.0 - July 19, 2019 <a id="1-0-0-nov-03-2018"></a>
+
+### Added <a id="added"></a>
+
+* Language selection.
+* PDF pager.
+* Average & Persistence.
+* HF reject for trigger.
+* Notification for a firmware update.
+* Custom export feature.
+
+### Fixed <a id="fixed"></a>
+
+* FFT auto-fit bug.
+* Advanced functions equation visibility bug.
+
+### Changed <a id="fixed"></a>
+
+* Frequency calculation algorithm is improved.
+* Menu order.
+* Interleave settings.
+* Signal selection \(from hover to click\).
+
 ## 1.1.1 - Apr 29, 2019 <a id="1-0-0-nov-03-2018"></a>
 
 ### Added <a id="added"></a>
 
 * User-guiding.
 * Support documents.
-* Calibration.
 * Turkish language support.
 
 ### Fixed <a id="fixed"></a>
