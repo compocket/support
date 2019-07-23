@@ -4,7 +4,7 @@ We try to make the software as flexible as possible for the users. We try to giv
 
 When you click on the **Buffer Navigator**, you open the Buffer Settings window.
 
-![](../../../../.gitbook/assets/59595638_2192599357461898_8108876079931850752_n.jpg)
+![](../../../../.gitbook/assets/12.png)
 
 **Buffer Depth:** You can change the buffer depth. \(Default: 2048\)  
 **Sampling Frequency:** If auto is not selected, ADC sampling frequency is fixed. If auto is selected, ADC sampling frequency is determined by the time/div. \(Default: Auto\)  

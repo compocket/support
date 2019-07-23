@@ -2,7 +2,7 @@
 
 The main screen of the application can be seen below:
 
-![](../../../../.gitbook/assets/image%20%28119%29.png)
+![](../../../../.gitbook/assets/image%20%28123%29.png)
 
 1. The color of the toolbar indicates the connection status. Green and red color corresponds to "connected" and "disconnected" respectively.
 2. This button locks/unlocks the oscilloscope area. If it is locked, the application ignores all the touch events in the oscilloscope area.

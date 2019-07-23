@@ -6,7 +6,7 @@ As we said before, we try to make the application as flexible as possible for th
 As you make changes, you can see the effects in real-time.
 {% endhint %}
 
-![Appearance](../../../../.gitbook/assets/image%20%2840%29.png)
+![Appearance](../../../../.gitbook/assets/image%20%2841%29.png)
 
 ### Appearance
 
@@ -20,7 +20,7 @@ As you make changes, you can see the effects in real-time.
 **Selected Trace Thickness:** The thickness of the selected/highlighted waveform.  
 **Cursor Thickness:** The thickness of the cursors.
 
-![Control Settings](../../../../.gitbook/assets/image%20%2857%29.png)
+![Control Settings](../../../../.gitbook/assets/image%20%2859%29.png)
 
 ### Control Settings
 
