@@ -4,7 +4,7 @@ While observing the waveforms, you need not only the time-domain, but also the f
 
 {% hint style="info" %}
 To open the Frequency Domain window:  
-   ![](../../../../.gitbook/assets/image%20%2899%29.png)   
+   ![](../../../../.gitbook/assets/image%20%28100%29.png)   
     click on the FFT.
 
 To show the FFT of a signal:  
@@ -15,11 +15,11 @@ To add a cursor on the graph:
     Double click on the graph.
 {% endhint %}
 
-![FFT of a 200 Hz square wave signal](../../../../.gitbook/assets/image%20%28142%29.png)
+![FFT of a 200 Hz square wave signal](../../../../.gitbook/assets/image%20%28143%29.png)
 
 You can use the FFT for troubleshooting as well. If you expect a perfect sine wave for the signal, but you see some disturbance on it, you can check the FFT. If the signal is perfect sine-wave, there should be a clear peak only at the signal frequency. However, If you see another peak that cannot be ignored at different frequency, you can understand that something affects your source.  Below image illustrates this situation.
 
-![A mixed signal](../../../../.gitbook/assets/image%20%28149%29.png)
+![A mixed signal](../../../../.gitbook/assets/image%20%28150%29.png)
 
 The default window function is selected as **Rectangular.** You can select the window function to one of the followings by right clicking on the FFT window:
 
@@ -32,7 +32,7 @@ The default window function is selected as **Rectangular.** You can select the w
 * Flat Top
 * Kaiser
 * 
-![](../../../../.gitbook/assets/image%20%28163%29.png)
+![](../../../../.gitbook/assets/image%20%28164%29.png)
 
 {% hint style="warning" %}
 The frequency range is calculated as:   

@@ -6,7 +6,7 @@ The application provides the user with 4 different export option: **PNG, PDF,  C
 
 In the png section, you can select the source to get the screenshot. These sources can be Oscilloscope, FFT, XY Graph or Measurement.
 
-![Export as PNG](../../../../.gitbook/assets/image%20%28103%29.png)
+![Export as PNG](../../../../.gitbook/assets/image%20%28104%29.png)
 
 Refresh Data button enables you to get the latest screenshots of all the sources. You do not need to re-open the export window to refresh the sources.
 
@@ -16,7 +16,7 @@ Copy to Clipboard button make you copy the image without saving it.
 
 In the pdf section, this time, you can select multiple sources to add to the report. In addition, you can add captions for the images and tables.  
 
-![Export as PDF](../../../../.gitbook/assets/image%20%2849%29.png)
+![Export as PDF](../../../../.gitbook/assets/image%20%2850%29.png)
 
 As you select the sources, you will see that the selected source and its caption are written on the report in preview section.
 
@@ -26,7 +26,7 @@ Refresh Data button enables you to get the latest screenshots of all the sources
 
 In the csv section, you can select the source as Oscilloscope, FFT or XY to get the data.
 
-![Export as CSV](../../../../.gitbook/assets/image%20%28139%29.png)
+![Export as CSV](../../../../.gitbook/assets/image%20%28140%29.png)
 
 {% hint style="info" %}
 To see the time-domain values of the signal, it should be visible.
@@ -40,7 +40,7 @@ Refresh Data button enables you to get the latest data of all the sources.
 
 In the mat section, you can select the oscilloscope for time-domain and FFT for frequency-domain to add them to the mat struct.
 
-![Export as MAT](../../../../.gitbook/assets/image%20%28162%29.png)
+![Export as MAT](../../../../.gitbook/assets/image%20%28163%29.png)
 
 If you export as **MAT**, the application creates a MAT file that includes a struct with a name "Signals". It includes 2 fields: **TimeDomain** and **FrequencyDomain**.  Both of them contain as many elements as the number of signals. 
 
@@ -48,7 +48,7 @@ Each struct in the TimeDomain field is a $$Nx1 $$ struct, where $$N$$ is the buf
 
 Each struct in the FrequencyDomain field is a $$nx1 $$ struct, where $$n = N/2+1$$. Each element of the struct consists of **f** and **dB** fields which correspond to frequency and amplitude values respectively.
 
-![Exported mat struct](../../../../.gitbook/assets/image%20%2871%29.png)
+![Exported mat struct](../../../../.gitbook/assets/image%20%2872%29.png)
 
 Refresh Data button enables you to get the latest data of all the sources.
 

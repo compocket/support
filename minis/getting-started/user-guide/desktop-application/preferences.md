@@ -20,7 +20,7 @@ As you make changes, you can see the effects in real-time.
 **Selected Trace Thickness:** The thickness of the selected/highlighted waveform.  
 **Cursor Thickness:** The thickness of the cursors.
 
-![Control Settings](../../../../.gitbook/assets/image%20%2855%29.png)
+![Control Settings](../../../../.gitbook/assets/image%20%2856%29.png)
 
 ### Control Settings
 
