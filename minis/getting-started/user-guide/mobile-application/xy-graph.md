@@ -5,7 +5,7 @@ In addition to time-domain and frequency domain analysis, sometimes you may need
 {% hint style="info" %}
 To open the XY window:  
     Click the Graph button.  
-    Select **FFT**.
+    Select **XY**.
 {% endhint %}
 
 ![](../../../../.gitbook/assets/image%20%2881%29.png)
