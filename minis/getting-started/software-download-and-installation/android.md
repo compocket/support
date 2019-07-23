@@ -2,7 +2,7 @@
 
 Before you will go further, make sure you have the latest version of the application. You don't want to miss the new features. 
 
-There is no so much thing to say about the Android application installation. You can install the app via Google Play. This will install the latest version. 
+There is no so much thing to say about the Android application installation. You can install the app via [Google Play](https://play.google.com/store/apps/details?id=com.compocket.minis). This will install the latest version. 
 
 {% hint style="warning" %}
 The Android application requires version 5.0+ and OTG support.
