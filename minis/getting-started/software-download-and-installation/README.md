@@ -2,7 +2,7 @@
 
 The Minis application is available on Windows, Linux, Mac OS and Android. Currently, we are not supporting IOS platform. We are working on it.  
 
-To download the appropriate application which suits to your preferred platform, you can visit the [**Download**](https://compocket.com/download/) page and get the software you want.
+To download the appropriate application which suits to your preferred platform, you can visit the [**Download**](https://compocket.com/pages/downloads) page and get the software you want.
 
 {% hint style="info" %}
 If you find any bugs in the software, you can reach us from the application or website. We will do our best to fix the bugs as soon as possible.
