@@ -8,9 +8,9 @@ To open the XY window:
     Select **FFT**.
 {% endhint %}
 
-![](../../../../.gitbook/assets/image%20%2877%29.png)
+![](../../../../.gitbook/assets/image%20%2881%29.png)
 
 You can change the signals for the x and y axes by clicking on the signal name.
 
-![](../../../../.gitbook/assets/image%20%28117%29.png)
+![](../../../../.gitbook/assets/image%20%28122%29.png)
 

@@ -8,7 +8,7 @@ On the right panel, there is a **Measurements** tab which is after the Signals t
 
 All the selected measurements are shown in the **Measurements** **Table**.
 
-![](../../../../.gitbook/assets/image%20%2883%29.png)
+![](../../../../.gitbook/assets/image%20%2887%29.png)
 
 You can change the order of the columns by dragging them. You can sort the measurements according to a column by clicking on it. 
 

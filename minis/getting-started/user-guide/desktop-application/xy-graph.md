@@ -4,7 +4,7 @@ In addition to time-domain and frequency domain analysis, sometimes you may need
 
 {% hint style="info" %}
 To open the XY Graph:  
-   ![](../../../../.gitbook/assets/image%20%28100%29.png)   
+   ![](../../../../.gitbook/assets/image%20%28105%29.png)   
     click on the XY.
 
 To determine the signals for x-axis and y-axis:  
@@ -21,5 +21,5 @@ In the below images, you can see couple of examples that illustrates the phase d
 
 ![The frequency of y-axis signal is two times the frequency of x-axis signal and 0 degree phase difference ](../../../../.gitbook/assets/image%20%2832%29.png)
 
-![The frequency of y-axis signal is three times the frequency of x-axis signal and 0 degree phase difference ](../../../../.gitbook/assets/image%20%28127%29.png)
+![The frequency of y-axis signal is three times the frequency of x-axis signal and 0 degree phase difference ](../../../../.gitbook/assets/image%20%28132%29.png)
 
