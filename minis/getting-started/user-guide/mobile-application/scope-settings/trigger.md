@@ -12,7 +12,7 @@ In addition to trigger mode, you can also select the trigger edge as **rising** 
 HF reject option enables the Low-pass filter in the trigger input. This will block the high frequency noise.
 {% endhint %}
 
-![](../../../../../.gitbook/assets/image%20%2833%29.png)
+![](../../../../../.gitbook/assets/trigger.png)
 
 From the trigger dialog, as you see above, you can set the trigger source, mode, edge, level and HF Reject.
 
