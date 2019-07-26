@@ -21,5 +21,5 @@ In the below images, you can see couple of examples that illustrates the phase d
 
 ![The frequency of y-axis signal is two times the frequency of x-axis signal and 0 degree phase difference ](../../../../.gitbook/assets/image%20%2833%29.png)
 
-![The frequency of y-axis signal is three times the frequency of x-axis signal and 0 degree phase difference ](../../../../.gitbook/assets/image%20%28136%29.png)
+![The frequency of y-axis signal is three times the frequency of x-axis signal and 0 degree phase difference ](../../../../.gitbook/assets/image%20%28137%29.png)
 

@@ -2,7 +2,7 @@
 
 There are many settings of the signals that you might change. In this page, you learn how to change all these settings for the signal. Let's begin with the context menu which will open when you right click on a signal.
 
-![](../../../../.gitbook/assets/image%20%28162%29.png)
+![](../../../../.gitbook/assets/image%20%28163%29.png)
 
 **Set as Trigger Source:** This option makes the signal trigger source.  
 **Trigger Option:** You can set the trigger option as auto, normal or single.  

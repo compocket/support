@@ -16,7 +16,7 @@ The docking feature and tab windows are not supported for Linux in the time bein
 
 By dragging one of these windows you can select where to locate it. As you see in the above picture, The XY window is grabbed and it is hovering on Scope window. If you release the window in **TOP, RIGHT, BOTTOM** or **LEFT** positions, the XY window and Scope window will be arranged that way. 
 
-![](../../../../.gitbook/assets/image%20%28153%29.png)
+![](../../../../.gitbook/assets/image%20%28154%29.png)
 
 If you released the window in the **CENTER**, The scope and xy windows turn to tab windows as seen in the above picture.
 

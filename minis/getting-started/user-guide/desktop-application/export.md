@@ -6,7 +6,7 @@ The application provides the user with 4 different export option: **PNG, PDF,  C
 
 In the png section, you can select the source to get the screenshot. These sources can be Oscilloscope, FFT, XY Graph or Measurement.
 
-![Export as PNG](../../../../.gitbook/assets/image%20%28113%29.png)
+![Export as PNG](../../../../.gitbook/assets/image%20%28114%29.png)
 
 Refresh Data button enables you to get the latest screenshots of all the sources. You do not need to re-open the export window to refresh the sources.
 
@@ -26,7 +26,7 @@ Refresh Data button enables you to get the latest screenshots of all the sources
 
 In the csv section, you can select the source as Oscilloscope, FFT or XY to get the data.
 
-![Export as CSV](../../../../.gitbook/assets/image%20%28149%29.png)
+![Export as CSV](../../../../.gitbook/assets/image%20%28150%29.png)
 
 {% hint style="info" %}
 To see the time-domain values of the signal, it should be visible.
@@ -40,7 +40,7 @@ Refresh Data button enables you to get the latest data of all the sources.
 
 In the mat section, you can select the oscilloscope for time-domain and FFT for frequency-domain to add them to the mat struct.
 
-![Export as MAT](../../../../.gitbook/assets/image%20%28173%29.png)
+![Export as MAT](../../../../.gitbook/assets/image%20%28174%29.png)
 
 If you export as **MAT**, the application creates a MAT file that includes a struct with a name "Signals". It includes 2 fields: **TimeDomain** and **FrequencyDomain**.  Both of them contain as many elements as the number of signals. 
 

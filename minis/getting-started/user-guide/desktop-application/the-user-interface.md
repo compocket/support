@@ -24,7 +24,7 @@ The main window of the application can be seen below:
 
 The below image shows the floating action buttons in the open state.
 
-![](../../../../.gitbook/assets/image%20%28167%29.png)
+![](../../../../.gitbook/assets/image%20%28168%29.png)
 
 1. It opens/closes other floating action buttons.
 2. It opens the **Functions** page. For details, check [**Advanced Functions**](custom-functions.md)**.**

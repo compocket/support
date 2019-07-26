@@ -10,7 +10,7 @@ To continue, click **Run**. After this point, the installation starts.
 
 You need the choose the option **"I accept the agreement"** and click **Next** to continue with the installation.
 
-![](../../../.gitbook/assets/image%20%28169%29.png)
+![](../../../.gitbook/assets/image%20%28170%29.png)
 
 Here you can select the destination folder, however it is recommended to leave this as it is. Click **Next** again to continue.
 

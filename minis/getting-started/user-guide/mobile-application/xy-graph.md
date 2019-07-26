@@ -12,5 +12,5 @@ To open the XY window:
 
 You can change the signals for the x and y axes by clicking on the signal name.
 
-![](../../../../.gitbook/assets/image%20%28126%29.png)
+![](../../../../.gitbook/assets/image%20%28127%29.png)
 

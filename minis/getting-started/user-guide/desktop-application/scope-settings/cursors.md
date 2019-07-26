@@ -10,7 +10,7 @@ At the top of the cursor, you see the value of every signal at the time where th
 
 If you add another cursor, you see also the time difference and the frequency value\(reciprocal of the time difference\).
 
-![](../../../../../.gitbook/assets/image%20%28114%29.png)
+![](../../../../../.gitbook/assets/image%20%28115%29.png)
 
 When you right click the cursor, you will see a menu. "Delete" and "Clear all" options are self explanatory. Another option is "Lock in screen". If it is selected, the cursor location is fixed to the point on the screen. If it is not,  the cursor is fixed to the time variable. 
 
@@ -18,7 +18,7 @@ When you right click the cursor, you will see a menu. "Delete" and "Clear all" o
 
 In the below pictures, you will see the difference between time-fixed and point-fixed cursors. The left cursor is time-fixed, the right one is point-fixed.
 
-![](../../../../../.gitbook/assets/image%20%28145%29.png)
+![](../../../../../.gitbook/assets/image%20%28146%29.png)
 
 ![](../../../../../.gitbook/assets/image%20%2831%29.png)
 

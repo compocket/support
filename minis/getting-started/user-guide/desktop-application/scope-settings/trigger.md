@@ -10,11 +10,11 @@ In the auto mode, the device tries to trigger the waveform continuously accordin
 HF reject option enables the Low-pass filter in the trigger input. This will block the high frequency noise.
 {% endhint %}
 
-![](../../../../../.gitbook/assets/image%20%28124%29.png)
+![](../../../../../.gitbook/assets/image%20%28125%29.png)
 
 You can change the trigger settings from this user interface. 
 
-![](../../../../../.gitbook/assets/image%20%28158%29.png)
+![](../../../../../.gitbook/assets/image%20%28159%29.png)
 
 Or alternatively, you can right click on the channel waveform and change the trigger settings.
 

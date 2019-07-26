@@ -14,7 +14,7 @@ Above the oscilloscope, there is a buffer navigator. It shows the complete buffe
 
 The scope area has a context menu. This means, when you right click on the plot area, you will see a menu that help you to control some scope settings.
 
-![](../../../../../.gitbook/assets/image%20%28143%29.png)
+![](../../../../../.gitbook/assets/image%20%28144%29.png)
 
 **Show Volt/div values:** It will toggle the visibility of the labels that show the volt/div of each visible signals.  
 **Lock volt offset:** If it is not selected, the center point of the vertical zoom operation is the mouse location. If it is selected, the vertical zoom operation is zero-centered.   
