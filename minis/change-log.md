@@ -1,5 +1,21 @@
 # Change Log
 
+## 1.2.1 - Planning <a id="1-0-0-nov-03-2018"></a>
+
+### Added <a id="added"></a>
+
+* New measurements \(High, Low, Amplitude, +Width, -Width, +Overshoot, -Overshoot, Average, Rise Time, Fall Time\).
+* File association with "mws" files.
+* Average & Persistence settings to right click.
+
+### Fixed <a id="fixed"></a>
+
+* Mac integrated graphics cards issue.
+
+### Changed <a id="fixed"></a>
+
+* User interface view sizes in accordance with resolution.
+
 ## 1.2.0 - July 19, 2019 <a id="1-0-0-nov-03-2018"></a>
 
 ### Added <a id="added"></a>
