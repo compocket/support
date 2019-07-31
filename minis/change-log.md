@@ -5,12 +5,8 @@
 ### Added <a id="added"></a>
 
 * New measurements \(High, Low, Amplitude, +Width, -Width, +Overshoot, -Overshoot, Average, Rise Time, Fall Time\).
-* File association with "mws" files.
 * Average & Persistence settings to right click.
-
-### Fixed <a id="fixed"></a>
-
-* Mac integrated graphics cards issue.
+* Customizable trace color set.
 
 ### Changed <a id="fixed"></a>
 
@@ -31,6 +27,7 @@
 
 * FFT auto-fit bug.
 * Advanced functions equation visibility bug.
+* Mac integrated graphics cards issue.
 
 ### Changed <a id="fixed"></a>
 
