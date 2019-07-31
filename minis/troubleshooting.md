@@ -33,10 +33,5 @@ If you can't see the scope screen like the below image, your graphics card's dri
 
 AC coupling is managed by software. If the device is in real-time mode, the AC coupling is not functional. That's why you see the offset. 
 
-### The trigger is not working properly. It triggers at another voltage level or does not trigger at all.
-
-If you are in real-time mode, the trigger is not functional.  
-If you are using AC coupling, the actual voltage might have a DC offset, which results in different trigger level from you might except. Try to see the actual signal in DC coupling first. 
-
 
 
