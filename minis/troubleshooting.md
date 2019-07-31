@@ -4,7 +4,7 @@
 
 If you can't see the scope screen like the below image, your graphics card's driver may not be up to date. You need to download and install the latest version of the graphics card driver to fix the problem. 
 
-![](../.gitbook/assets/image%20%284%29.png)
+![](../.gitbook/assets/image%20%285%29.png)
 
 ### I plugged the device, but I cannot communicate with it.
 

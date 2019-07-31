@@ -10,7 +10,7 @@ You can find all your exports in **Internal storage/minis** folder.
 
 You can open up the Export dialog by clicking on the Share button.
 
-![Share button](../../../../.gitbook/assets/image%20%28167%29.png)
+![Share button](../../../../.gitbook/assets/image%20%28172%29.png)
 
 After you select the source \(Scope, FFT or XY\) and the type \(PNG or CSV\) you can export the selected graph by clicking on the "Export" button. App may ask for your permission to store the export in the internal storage.
 

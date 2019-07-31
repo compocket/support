@@ -17,6 +17,8 @@
           * [Cursors](minis/getting-started/user-guide/desktop-application/scope-settings/cursors.md)
           * [Tracker](minis/getting-started/user-guide/desktop-application/scope-settings/tracker.md)
           * [Trigger](minis/getting-started/user-guide/desktop-application/scope-settings/trigger.md)
+          * [Average](minis/getting-started/user-guide/desktop-application/scope-settings/average.md)
+          * [Persistence](minis/getting-started/user-guide/desktop-application/scope-settings/persistence.md)
         * [Signal Settings](minis/getting-started/user-guide/desktop-application/signal-settings.md)
         * [Buffer Settings](minis/getting-started/user-guide/desktop-application/buffer-settings.md)
         * [Measurements](minis/getting-started/user-guide/desktop-application/measurements.md)

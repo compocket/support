@@ -6,7 +6,7 @@ The desktop application version for this guide is 1.2.0. If you have the previou
 
 The main window of the application can be seen below:
 
-![](../../../../.gitbook/assets/image%20%2849%29.png)
+![](../../../../.gitbook/assets/image%20%2851%29.png)
 
 1. This indicates the desktop application software version together with the USB connection status of the device. If the device is connected, it will show **"Minis 1.2.0 \(Connected\)"** and theme will be **green**. Otherwise it will show **"Minis 1.2.0 \(Disconnected\)"** and the theme will be **red**.
 2. These arrows hide the left and right control panels to increase the oscilloscope area.
@@ -24,7 +24,7 @@ The main window of the application can be seen below:
 
 The below image shows the floating action buttons in the open state.
 
-![](../../../../.gitbook/assets/image%20%28168%29.png)
+![](../../../../.gitbook/assets/image%20%28173%29.png)
 
 1. It opens/closes other floating action buttons.
 2. It opens the **Functions** page. For details, check [**Advanced Functions**](custom-functions.md)**.**

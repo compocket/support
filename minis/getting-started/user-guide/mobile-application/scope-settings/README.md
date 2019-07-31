@@ -2,11 +2,11 @@
 
 The oscilloscope is the most important part of the application. Here, you can observe the channels and math signals in the time domain. The scope is divided into 10 equal spaces both horizontally and vertically. Each interval in the horizontal line corresponds to **time/div**. Likewise, each interval in the vertical line corresponds to **volt/div**. 
 
-![](../../../../../.gitbook/assets/image%20%28173%29.png)
+![](../../../../../.gitbook/assets/image%20%28178%29.png)
 
 The left axis of the oscilloscope displays the values of the Channel-1 that intersect with the equally spaced horizontal lines. The volt/div for the left axis is determined by the Channel-1. Similarly, the right axis is for the Channel-2. The volt/div for the right axis is determined by the Channel-2. The only difference is that if you select a signal different than channels, let's say S3, the right axis values are determined by S3. The time axis is a global axis. Every signal has the same time values. You can look at [**Volt/div & Time/div Settings**](volt-div-and-time-div-settings.md) ****to learn how to change these values.
 
-![The view when the yellow colored signal selected](../../../../../.gitbook/assets/image%20%2873%29.png)
+![The view when the yellow colored signal selected](../../../../../.gitbook/assets/image%20%2875%29.png)
 
 If you select a signal\(by tapping on it\), you can see the values of the selected signal where it intersects with the equally spaced vertical lines.
 
@@ -18,11 +18,11 @@ Below the oscilloscope, you see some information about the graphic. You can see 
 
 Above the oscilloscope, there is a buffer navigator. It shows the complete buffer and highlights the visible part of the buffer. If you drag the highlighted part, you can move the visible window of the buffer. If you touch the other parts, you can directly go to the corresponding part of the buffer. To learn how to change the buffer settings, like sampling rate, fps rate, buffer depth, check [**Buffer Settings**](../buffer-settings.md).
 
-![The menu for the graphs](../../../../../.gitbook/assets/image%20%285%29.png)
+![The menu for the graphs](../../../../../.gitbook/assets/image%20%286%29.png)
 
 When the graph button is clicked, it opens a menu in which you can select the graphs that you want to observe.
 
-![The view when all the graphs are selected](../../../../../.gitbook/assets/image%20%28129%29.png)
+![The view when all the graphs are selected](../../../../../.gitbook/assets/image%20%28133%29.png)
 
 If you select all of the graphs, the application show all of them at the same time. 
 

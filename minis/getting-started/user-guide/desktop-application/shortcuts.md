@@ -13,7 +13,7 @@
 | Change all signals volt/divs | Scroll + CTRL | Oscilloscope |
 | Scope Settings | Right click | Oscilloscope |
 | Buffer Settings | Right click | Buffer navigator |
-| Signal Settings | Right click + Hover | Scope |
+| Signal Settings | Right click | Scope |
 | Select all blocks | CTRL + A | Functions window |
 | Select blocks | Drag Mouse | Functions window |
 | Copy selected blocks | CTRL + C | Functions window |
