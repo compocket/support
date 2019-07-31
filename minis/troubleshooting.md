@@ -17,7 +17,7 @@ If you can't see the scope screen like the below image, your graphics card's dri
 * If you cannot find them there, you need to install the drivers manually.
 * Go to the installation folder of the Minis. If you did not change the default location, it is **"C:\Program Files \(x86\)\Compocket\Minis"**. 
 * Open **Drivers** folder.
-* If you do not have **Minis.cat** and **MinisBootloader.cat** files, **Run dpscat.exe** first. This creates the necessary .cat files.
+* If you do not have **Minis.cat** files, **Run dpscat.exe** first. This creates the necessary .cat files.
 * **Run dpinst32.exe** or **dpinst64.exe** according to your OS. This will install the drivers.
 
 #### **For Linux:**
