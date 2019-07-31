@@ -1,7 +1,7 @@
 # The User Interface
 
 {% hint style="info" %}
-The desktop application version for this guide is 1.2.0. If you have the previous version, you may have different user interface. Even if the latest version of application has quite more functionality, you can still follow the guide and learn how to use for the older versions.
+The desktop application version for this guide is 1.2.1. If you have the previous version, you may have different user interface. Even if the latest version of application has quite more functionality, you can still follow the guide and learn how to use for the older versions.
 {% endhint %}
 
 The main window of the application can be seen below:
