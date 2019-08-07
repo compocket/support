@@ -1,5 +1,22 @@
 # Change Log
 
+## 1.2.2 - Planned <a id="1-0-0-nov-03-2018"></a>
+
+### Added <a id="added"></a>
+
+* Changeable trace name.
+* Changeable trace unit.
+* Changeable trace gain.
+
+### Fixed <a id="fixed"></a>
+
+* AC coupling bug.
+* Advanced functions calculation in real-time.
+
+### Changed <a id="fixed"></a>
+
+* UI for software.
+
 ## 1.2.1 - Aug 1, 2019 <a id="1-0-0-nov-03-2018"></a>
 
 ### Added <a id="added"></a>
