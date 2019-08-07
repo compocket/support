@@ -15,7 +15,7 @@
 
 ### Changed <a id="fixed"></a>
 
-* UI for software.
+* UI for software check.
 
 ## 1.2.1 - Aug 1, 2019 <a id="1-0-0-nov-03-2018"></a>
 
