@@ -7,6 +7,7 @@
 * Changeable trace name.
 * Changeable trace unit.
 * Changeable trace gain.
+* Restore/maximize & close buttons to windows.
 
 ### Fixed <a id="fixed"></a>
 
