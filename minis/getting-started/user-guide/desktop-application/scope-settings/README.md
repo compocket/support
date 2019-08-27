@@ -2,7 +2,7 @@
 
 The oscilloscope is the most important part of the application. Here, you can observe the channels and math signals in the time domain. The oscilloscope is divided into 10 equal spaces both horizontally and vertically. Each interval in the horizontal line corresponds to **time/div**. Likewise, each interval in the vertical line corresponds to **volt/div**. 
 
-![](../../../../../.gitbook/assets/image%20%28188%29.png)
+![](../../../../../.gitbook/assets/image%20%28192%29.png)
 
 The left axis of the oscilloscope displays the values of the Channel-1 that intersect with the equally spaced horizontal lines. The volt/div for the left axis is determined by the Channel-1. Similarly, the right axis is for the Channel-2. The volt/div for the right axis is determined by the Channel-2. The only difference is that if you click a signal different than channels, let's say S3, the right axis values are determined by S3. The time axis is a global axis. Every signal has the same time values. You can look at [**Volt/div & Time/div Settings**](volt-div-and-time-div-settings.md) ****to learn how to change these values.
 
@@ -14,7 +14,7 @@ Above the oscilloscope, there is a buffer navigator. It shows the complete buffe
 
 The scope area has a context menu. This means, when you right click on the plot area, you will see a menu that help you to control some scope settings.
 
-![](../../../../../.gitbook/assets/image%20%28165%29.png)
+![](../../../../../.gitbook/assets/image%20%28167%29.png)
 
 **Show Volt/div values:** It will toggle the visibility of the labels that show the volt/div of each visible signals.  
 **Lock volt offset:** If it is not selected, the center point of the vertical zoom operation is the mouse location. If it is selected, the vertical zoom operation is zero-centered.   
