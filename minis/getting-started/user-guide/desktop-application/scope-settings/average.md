@@ -9,7 +9,7 @@ You can specify the number of waveforms to be averaged by:
 * Opening the Preferences/Control Settings section.
 {% endhint %}
 
-![Right clicking on the oscilloscope window for average settings](../../../../../.gitbook/assets/image%20%28121%29.png)
+![Right clicking on the oscilloscope window for average settings](../../../../../.gitbook/assets/image%20%28122%29.png)
 
-![Preferences/Control Settings section](../../../../../.gitbook/assets/image%20%2892%29.png)
+![Preferences/Control Settings section](../../../../../.gitbook/assets/image%20%2893%29.png)
 

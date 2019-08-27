@@ -6,7 +6,7 @@ As we said before, we try to make the application as flexible as possible for th
 As you make changes, you can see the effects in real-time.
 {% endhint %}
 
-![Appearance](../../../../.gitbook/assets/image%20%28190%29.png)
+![Appearance](../../../../.gitbook/assets/image%20%28191%29.png)
 
 ### Appearance
 
@@ -26,7 +26,7 @@ As you make changes, you can see the effects in real-time.
 
 Each color value is the default color value for the corresponding signal.
 
-![Control Settings](../../../../.gitbook/assets/image%20%28130%29.png)
+![Control Settings](../../../../.gitbook/assets/image%20%28131%29.png)
 
 ### Control Settings
 
