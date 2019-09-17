@@ -1,6 +1,6 @@
 # Change Log
 
-## 1.2.2 - Planned <a id="1-0-0-nov-03-2018"></a>
+## 1.2.2 - Sep 17, 2019 <a id="1-0-0-nov-03-2018"></a>
 
 ### Added <a id="added"></a>
 
